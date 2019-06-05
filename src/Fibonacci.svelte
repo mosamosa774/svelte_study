@@ -27,6 +27,8 @@
 #fibonacci_div {
     width: 30%;
     border: 2px solid #000000;
+	margin-left: 1%;
+    margin-bottom: 1%;
 }
 </style>
 
